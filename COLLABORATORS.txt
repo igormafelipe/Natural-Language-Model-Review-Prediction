@@ -1,0 +1,8 @@
+Name: Igor M. Felipe
+I spent 23 hours on this homework sparsed over a few days. A lot of time was spent waiting for models to run and analyzing what could be used to further improve the models.
+I sought help from Si and Ethan for bugs when trying to pre-process the data. That was my biggest issue during this assingment, and where I spent most of my time.
+
+I looked up examples of a few classifiers, and good versions of pre-made bag of words. Unfortunatelly, the bad of words never improved performance.
+
+
+
