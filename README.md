@@ -14,7 +14,9 @@ where 1 indicates a positive review. There are also 600 testing inputs, for whic
 
 ## Examples of positive reviews include:
 • (amazon) #1 It Works - #2 It is Comfortable.
+
 • (imdb) "Gotta love those close-ups of slimy, drooling teeth! "
+
 • (yelp) Food was so gooodd.
 ## Examples of negative reviews include:
 • (amazon) DO NOT BUY DO NOT BUYIT SUCKS
