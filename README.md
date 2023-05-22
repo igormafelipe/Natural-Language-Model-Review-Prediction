@@ -18,7 +18,10 @@ where 1 indicates a positive review. There are also 600 testing inputs, for whic
 • (imdb) "Gotta love those close-ups of slimy, drooling teeth! "
 
 • (yelp) Food was so gooodd.
+
 ## Examples of negative reviews include:
 • (amazon) DO NOT BUY DO NOT BUYIT SUCKS
+
 • (imdb) This is not movie-making.
+
 • (yelp) The service was poor and thats being nice.
